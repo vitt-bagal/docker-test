@@ -1,5 +1,5 @@
 # Base image
-FROM ecos0003:5000/jenkins_slave_rhel:6.10
+FROM ecos0003:5000/jenkins_slave_rhel:8.0
 # The author
 LABEL maintainer="LoZ Open Source Ecosystem (https://www.ibm.com/developerworks/community/groups/community/lozopensource)"
 ARG VERSION=3.35
